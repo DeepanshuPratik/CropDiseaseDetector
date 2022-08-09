@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649742428706",
+    "firebase_url": "https://cropdoctor-9b61f-default-rtdb.firebaseio.com",
+    "project_id": "cropdoctor-9b61f",
+    "storage_bucket": "cropdoctor-9b61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649742428706:android:b3e4dad2844a721257787b",
+        "android_client_info": {
+          "package_name": "com.example.cropdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649742428706-u0u4rdgf6vvj23o4f5gt02mtjk5122u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cropdoctor",
+            "certificate_hash": "3a07ae3153c4f72f8fa8c8f95870440f646a6847"
+          }
+        },
+        {
+          "client_id": "649742428706-vcavmjqeqnko5tepdcno19flbjbgjtpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAy6T-8mx5tdnRxq4R4i16YhPDV0tZ6pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649742428706-vcavmjqeqnko5tepdcno19flbjbgjtpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

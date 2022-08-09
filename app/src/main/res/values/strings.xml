@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Crop Doctor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Today Weather Demo</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+</resources>
